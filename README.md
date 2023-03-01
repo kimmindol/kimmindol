@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - My name is **min-seok**, major in **Biomedicalsystem** at Soongsil University
-- My goal it to let the people know medical information of animals
+- My goal is to let the people know medical information of animals
 
 </br>
 
